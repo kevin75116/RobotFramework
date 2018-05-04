@@ -1,0 +1,12 @@
+*** Settings ***
+Library           lib/MyLibrary.py
+
+*** Test Cases ***
+Python Logger Module Test
+    Show Log Via Print
+
+Robot Logger API Test
+    Show Log Via Robot Api
+
+System Standard Output
+    Show Message On Console Only
