@@ -1,0 +1,13 @@
+*** Settings ***
+Library           C:\\Users\\wakevin\\Desktop\\test\\lib\\MyLibrary.py
+
+*** Test Cases ***
+Test Case 1
+    ${count}=    Get Count Value
+    ${count}=    Get Count Value
+
+Test Case 2
+    ${count}=    Get Count Value
+
+Test Case 3
+    ${count}=    Get Count Value
