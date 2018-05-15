@@ -1,5 +1,5 @@
 *** Settings ***
-Library           C:\\Users\\wakevin\\Desktop\\test\\lib\\MyLibrary.py
+Library           lib/MyLibrary.py
 
 *** Test Cases ***
 Test Case 1
